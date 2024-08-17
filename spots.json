@@ -1,0 +1,69 @@
+[
+    {
+      "touristSpot": "Eiffel Tower",
+      "countryName": "France",
+      "location": "Paris",
+      "description": "An iconic symbol of France, offering stunning views of Paris.",
+      "season": "Spring",
+      "travelTime": "1 hour from city center",
+      "visitor": "7 million annually",
+      "cost": "$25",
+      "photoURL": "https://i.postimg.cc/dVrJxv4W/img6.jpg"
+    },
+    {
+      "touristSpot": "Great Wall of China",
+      "countryName": "China",
+      "location": "Beijing",
+      "description": "A historic fortification stretching over 13,000 miles.",
+      "season": "Autumn",
+      "travelTime": "2 hours from Beijing",
+      "visitor": "10 million annually",
+      "cost": "$30",
+      "photoURL": "https://i.postimg.cc/m2qrnmRr/img1.jpg"
+    },
+    {
+      "touristSpot": "Machu Picchu",
+      "countryName": "Peru",
+      "location": "Cusco Region",
+      "description": "An ancient Incan city set high in the Andes Mountains.",
+      "season": "Winter",
+      "travelTime": "4 hours from Cusco",
+      "visitor": "1.5 million annually",
+      "cost": "$50",
+      "photoURL": "https://i.postimg.cc/s2Cgj1Md/img2.jpg"
+    },
+    {
+      "touristSpot": "Statue of Liberty",
+      "countryName": "USA",
+      "location": "New York City",
+      "description": "A symbol of freedom and democracy, located on Liberty Island.",
+      "season": "Summer",
+      "travelTime": "30 minutes by ferry",
+      "visitor": "4 million annually",
+      "cost": "$20",
+      "photoURL": "https://i.postimg.cc/nzHVm5K3/img4.jpg"
+    },
+    {
+      "touristSpot": "Sydney Opera House",
+      "countryName": "Australia",
+      "location": "Sydney",
+      "description": "A world-renowned performing arts center with a distinctive design.",
+      "season": "Spring",
+      "travelTime": "15 minutes from city center",
+      "visitor": "8 million annually",
+      "cost": "$35",
+      "photoURL": "https://i.postimg.cc/dVrJxv4W/img6.jpg"
+    },
+    {
+      "touristSpot": "Taj Mahal",
+      "countryName": "India",
+      "location": "Agra",
+      "description": "A stunning white marble mausoleum and UNESCO World Heritage site.",
+      "season": "Winter",
+      "travelTime": "3 hours from Delhi",
+      "visitor": "7 million annually",
+      "cost": "$15",
+      "photoURL": "https://i.postimg.cc/m2qrnmRr/img1.jpg"
+    }
+  ]
+  
